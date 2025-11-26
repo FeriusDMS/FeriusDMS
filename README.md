@@ -1,35 +1,47 @@
-# 👋 Salut, je suis FeriusDMS !
+# 👋 Hi there, I'm FeriusDMS!
 
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Game+Modder+%F0%9F%8E%AE;Python+Developer+%F0%9F%90%8D)
+  ---
+
+## 🎮 Interests
+
+- 🤖 **Artificial Intelligence** - Machine Learning, Deep Learning, NLP
+- 🎮 **Video Games** - FFXIV, modding, game design
+- 📊 **Data Science** - Data analysis, visualization
+- 🔬 **Innovation** - Experimenting with new technologies
+
+---
+
+## 💬 Get in Touch
+
+💡 Feel free to reach out for collaboration on AI or gaming projects!G](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Game+Modder+%F0%9F%8E%AE;Python+Developer+%F0%9F%90%8D)
 
 </div>
 
-## 🚀 À propos de moi
+## 🚀 About Me
 
-🤖 **Data Scientist** passionné par l'intelligence artificielle et le machine learning  
-🎮 Créateur de **mods pour Final Fantasy XIV**  
-🐍 Développeur **Python** avec un focus sur l'IA  
-🎯 Toujours en train d'explorer de nouvelles techniques d'IA et de créer des projets innovants
-
----
-
-## 🔭 Projets actuels
-
-- 🎮 Développement de mods pour **FFXIV**
-- 🤖 Création et entraînement de modèles d'**IA**
-- 📊 Exploration de nouvelles techniques de **data science**
+🤖 **Data Scientist** passionate about artificial intelligence and machine learning  
+🎮 Creator of **mods for Final Fantasy XIV**  
+🐍 **Python** developer with a focus on AI  
+🎯 Always exploring new AI techniques and creating innovative projects
 
 ---
 
-## 🛠️ Technologies & Outils
+## 🔭 Current Projects
 
-### Langages
+- 🎮 Developing mods for **FFXIV**
+- 🤖 Creating and training **AI** models
+- 📊 Exploring new **data science** techniques
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### IA & Machine Learning
+### AI & Machine Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -37,22 +49,22 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Outils
+### Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeriusDMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeriusDMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/FeriusDMS)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeriusDMS&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeriusDMS&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/FeriusDMS)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FeriusDMS&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FeriusDMS&theme=tokyonight&hide_border=true)](https://github.com/FeriusDMS)
 
 </div>
 
