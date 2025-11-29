@@ -67,17 +67,11 @@
 
 <div align="center">
   
-<a href="https://github.com/FeriusDMS">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FeriusDMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeriusDMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/FeriusDMS)
   
-<a href="https://github.com/FeriusDMS">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FeriusDMS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeriusDMS&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/FeriusDMS)
   
-<a href="https://github.com/FeriusDMS">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeriusDMS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FeriusDMS&theme=tokyonight&hide_border=true)](https://github.com/FeriusDMS)
 
 </div>
 
