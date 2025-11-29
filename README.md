@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm FeriusDMS!
 
 <div align="center">
-  ---
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Game+Modder+%F0%9F%8E%AE;Python+Developer+%F0%9F%90%8D)
 
 ## 🎮 Interests
 
@@ -14,7 +14,7 @@
 
 ## 💬 Get in Touch
 
-💡 Feel free to reach out for collaboration on AI or gaming projects!G](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Game+Modder+%F0%9F%8E%AE;Python+Developer+%F0%9F%90%8D)
+💡 Feel free to reach out for collaboration on AI or gaming projects! At this email: andrea.mancion@gmail.com
 
 </div>
 
@@ -67,21 +67,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FeriusDMS&theme=tokyonight&hide_border=true)](https://github.com/FeriusDMS)
 
 </div>
-
----
-
-## 🎮 Centres d'intérêt
-
-- 🤖 **Intelligence Artificielle** - Machine Learning, Deep Learning, NLP
-- 🎮 **Jeux Vidéo** - FFXIV, modding, game design
-- 📊 **Data Science** - Analyse de données, visualisation
-- � **Innovation** - Expérimentation de nouvelles technologies
-
----
-
-## 💬 Me contacter
-
-💡 N'hésitez pas à me contacter pour collaborer sur des projets IA ou gaming !
 
 ---
 
