@@ -21,7 +21,7 @@
 
 💡 Feel free to reach out for collaboration on AI or gaming projects!
 
-📧 **Email:** andrea.mancion@gmail.com
+📧 **Email:** andrea.mancion@epitech.eu
 
 ---
 
