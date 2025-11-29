@@ -1,7 +1,12 @@
 # 👋 Hi there, I'm FeriusDMS!
 
 <div align="center">
-   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Game+Modder+%F0%9F%8E%AE;Python+Developer+%F0%9F%90%8D)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%F0%9F%A4%96;AI+Enthusiast+%F0%9F%A7%A0;Game+Modder+%F0%9F%8E%AE;Python+Developer+%F0%9F%90%8D)
+
+</div>
+
+---
 
 ## 🎮 Interests
 
@@ -14,9 +19,11 @@
 
 ## 💬 Get in Touch
 
-💡 Feel free to reach out for collaboration on AI or gaming projects! At this email: andrea.mancion@gmail.com
+💡 Feel free to reach out for collaboration on AI or gaming projects!
 
-</div>
+📧 **Email:** andrea.mancion@gmail.com
+
+---
 
 ## 🚀 About Me
 
@@ -60,11 +67,11 @@
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeriusDMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/FeriusDMS)
+<img src="https://github-readme-stats.vercel.app/api?username=FeriusDMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FeriusDMS&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/FeriusDMS)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriusDMS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FeriusDMS&theme=tokyonight&hide_border=true)](https://github.com/FeriusDMS)
+<img src="https://streak-stats.demolab.com/?user=FeriusDMS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
