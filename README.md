@@ -67,11 +67,17 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=FeriusDMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<a href="https://github.com/FeriusDMS">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FeriusDMS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</a>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeriusDMS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<a href="https://github.com/FeriusDMS">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FeriusDMS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</a>
   
-<img src="https://streak-stats.demolab.com/?user=FeriusDMS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://github.com/FeriusDMS">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FeriusDMS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 </div>
 
